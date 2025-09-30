@@ -18,6 +18,7 @@ npx @restatedev/restate-server
 
 Start the Cloudflare Workers development server:
 ```bash
+npm install
 npm run dev
 ```
 
